@@ -4,3 +4,4 @@ speechrecognition
 watchdog 
 pyaudio
 
+ 
