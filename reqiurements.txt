@@ -1,7 +1,5 @@
 nltk
 streamlit
-speechrecognition
-watchdog 
-pyaudio
+ 
 
  
